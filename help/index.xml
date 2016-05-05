@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<!DOCTYPE index PUBLIC "-//Sun Microsystems Inc.//DTD JavaHelp Index Version 1.0//EN"
+                       "http://java.sun.com/products/javahelp/index_1_0.dtd">
+
+<index version="1.0">
+	<indexitem text="Adding Files to an Archive" target="adding1" />
+	<indexitem text="Archive Contents List" target="contentsview1" />
+	<indexitem text="Creating a New Archive" target="creating" />
+	<indexitem text="Extracting an Archive" target="extracting1" />
+	<indexitem text="Opening an Archive" target="opening" />
+	<indexitem text="Removing Files from an Archive" target="removing1" />
+	<indexitem text="The Actions Menu" target="actionsmenu1" />
+	<indexitem text="The File Menu" target="filemenu1" />
+	<indexitem text="The Find Dialog" target="find1" />
+	<indexitem text="The Main Window" target="mainwnd1" />
+	<indexitem text="The Options Dialog" target="options1" />
+	<indexitem text="The Text Viewer" target="textviewer1" />
+	<indexitem text="The Toolbar" target="toolbar1" />
+	<indexitem text="The Tools menu" target="toolsmenu1" />
+	<indexitem text="Viewing a Text File" target="viewing" />
+	<indexitem text="Welcome to Shrinkage" target="contents" />
+</index>

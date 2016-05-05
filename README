@@ -1,0 +1,17 @@
+How to run Shrinkage
+~~~~~~~~~~~~~~~~~~~~~~
+From Windows:
+Use the run.bat batch file.
+> run.bat
+
+From UNIX:
+Use the run.sh shell script.
+> ./run.sh
+
+If this doesn't work, you can call Java manually:
+
+From Windows:
+> java -classpath .;shrinkage.jar;lib\jhall.jar Shrinkage
+
+From UNIX:
+> java -classpath .:shrinkage.jar:lib/jhall.jar Shrinkage

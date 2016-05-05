@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<!DOCTYPE toc PUBLIC "-//Sun Microsystems Inc.//DTD JavaHelp TOC Version 1.0//EN"
+                     "http://java.sun.com/products/javahelp/toc_1_0.dtd">
+
+<toc version="1.0">
+	<tocitem text="Welcome to Shrinkage" target="contents" />
+	<tocitem text="The Find Dialog" target="find1" />
+	<tocitem text="The Options Dialog" target="options1" />
+	<tocitem text="The Text Viewer" target="textviewer1" />
+	<tocitem text="The Main Window" target="mainwnd1">
+		<tocitem text="The File Menu" target="filemenu1" />
+		<tocitem text="The Actions Menu" target="actionsmenu1" />
+		<tocitem text="The Tools Menu" target="toolsmenu1" />
+		<tocitem text="The Toolbar" target="toolbar1" />
+		<tocitem text="Archive Contents List" target="contentsview1" />
+	</tocitem>
+	<tocitem text="Instructions On...">
+		<tocitem text="Removing Files from an Archive" target="removing1" />
+		<tocitem text="Opening an Archive" target="opening" />
+		<tocitem text="Extracting an Archive" target="extracting1" />
+		<tocitem text="Creating a New Archive" target="creating" />
+		<tocitem text="Adding Files to an Archive" target="adding1" />
+		<tocitem text="Viewing a Text File" target="viewing" />
+	</tocitem>
+</toc>

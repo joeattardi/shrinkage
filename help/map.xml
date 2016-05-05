@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<!DOCTYPE map PUBLIC "-//Sun Microsystems Inc.//DTD JavaHelp Map Version 1.0//EN"
+                     "http://java.sun.com/products/javahelp/map_1_0.dtd">
+
+<map version="1.0">
+	<mapID target="viewer" url="images/viewer.gif"/>
+	<mapID target="actions-extract" url="images/actions-extract.gif"/>
+	<mapID target="actions-view" url="images/actions-view.gif"/>
+	<mapID target="actionsmenu" url="images/actionsmenu.gif"/>
+	<mapID target="archivecontents" url="images/archivecontents.gif"/>
+	<mapID target="contentsview" url="images/contentsview.gif"/>
+	<mapID target="extracting" url="images/extracting.gif"/>
+	<mapID target="extractloc" url="images/extractloc.gif"/>
+	<mapID target="file-open" url="images/file-open.gif"/>
+	<mapID target="filemenu" url="images/filemenu.gif"/>
+	<mapID target="find" url="images/find.gif"/>
+	<mapID target="highlight" url="images/highlight.gif"/>
+	<mapID target="mainwnd" url="images/mainwnd.gif"/>
+	<mapID target="opendialog" url="images/opendialog.gif"/>
+	<mapID target="tb-add" url="images/tb-add.gif"/>
+	<mapID target="tb-close" url="images/tb-close.gif"/>
+	<mapID target="tb-delete" url="images/tb-delete.gif"/>
+	<mapID target="tb-new" url="images/tb-new.gif"/>
+	<mapID target="tb-open" url="images/tb-open.gif"/>
+	<mapID target="tb-options" url="images/tb-options.gif"/>
+	<mapID target="tb-quit" url="images/tb-quit.gif"/>
+	<mapID target="tb-remove" url="images/tb-remove.gif"/>
+	<mapID target="tb-view" url="images/tb-view.gif"/>
+	<mapID target="textviewer" url="images/textviewer.gif"/>
+	<mapID target="toolbar" url="images/toolbar.gif"/>
+	<mapID target="toolsmenu" url="images/toolsmenu.gif"/>
+	<mapID target="file-new" url="images/file-new.gif"/>
+	<mapID target="savedialog" url="images/savedialog.gif"/>
+	<mapID target="actions-add" url="images/actions-add.gif"/>
+	<mapID target="addfile-opendialog" url="images/addfile-opendialog.gif"/>
+	<mapID target="adding" url="images/adding.gif"/>
+	<mapID target="newfilesadded" url="images/newfilesadded.gif"/>
+	<mapID target="closearchive" url="images/closearchive.gif"/>
+	<mapID target="actions-remove" url="images/actions-remove.gif"/>
+	<mapID target="removing" url="images/removing.gif"/>
+	<mapID target="options" url="images/options.gif"/>
+	<mapID target="actionsmenu1" url="actionsmenu.html"/>
+	<mapID target="adding1" url="adding.html"/>
+	<mapID target="contents" url="contents.html"/>
+	<mapID target="contentsview1" url="contentsview.html"/>
+	<mapID target="creating" url="creating.html"/>
+	<mapID target="extracting1" url="extracting.html"/>
+	<mapID target="filemenu1" url="filemenu.html"/>
+	<mapID target="find1" url="find.html"/>
+	<mapID target="mainwnd1" url="mainwnd.html"/>
+	<mapID target="opening" url="opening.html"/>
+	<mapID target="options1" url="options.html"/>
+	<mapID target="removing1" url="removing.html"/>
+	<mapID target="textviewer1" url="textviewer.html"/>
+	<mapID target="toolbar1" url="toolbar.html"/>
+	<mapID target="toolsmenu1" url="toolsmenu.html"/>
+	<mapID target="viewing" url="viewing.html"/>
+</map>
